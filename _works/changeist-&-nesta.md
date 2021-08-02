@@ -1,13 +1,13 @@
 ---
-thumbnail: "/assets/images/works/changeist-nesta-tile.jpg"
+thumbnail: "/assets/images/works/Changeist-Nesta-tile.jpg"
 slides:
   - "/assets/images/works/changeist-nesta-tile.jpg"
 categories:
   - Sustainability foreight & Trend mapping
 client: Changeist (The Hague) & NESTA (London)
-date: June 2013
+date: May 2021
 link:
-  text: 'CTA text button'
+  text: 'See more'
   url: 'http://pr3ssh.net'
 ---
 
