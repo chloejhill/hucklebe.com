@@ -1,5 +1,5 @@
 ---
-thumbnail: "/assets/images/works/Changeist-Nesta-tile.jpg"
+thumbnail: "/assets/images/works/changeist-nesta-tile.jpg"
 slides:
   - "/assets/images/works/changeist-nesta-tile.jpg"
 categories:

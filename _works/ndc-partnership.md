@@ -1,5 +1,5 @@
 ---
-thumbnail: "/assets/images/works/ndc-tile.jpg"
+thumbnail: "/assets/images/works/ndc.jpg"
 slides:
   - "/assets/images/works/ndc.jpg"
 categories:
