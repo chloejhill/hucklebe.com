@@ -1,7 +1,7 @@
 ---
 thumbnail: "/assets/images/works/iucn-tile.jpg"
 slides:
-  - "/assets/images/works/iucn-tile.jpg"
+  - "/assets/images/works/iucn.jpg"
 categories:
   - Video storyboarding & production
 client: IUCN (Geneva)

@@ -3932,6 +3932,11 @@ body {
   color: #222;
 }
 
+#socials .columns {
+  padding-top: 30px;
+  background: rgba(0,0,0,0.7);
+}
+
 @-webkit-keyframes bounceIn {
   0% {
     top: -330px; }
