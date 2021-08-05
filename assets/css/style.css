@@ -3919,6 +3919,19 @@ body {
   min-height: 200px;
 }
 
+.coming-soon {
+  text-align: center;
+  font-weight: bold;
+  font-family: Poppins;
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin: 0px 10px 80px;
+  padding: 2px 15px;
+  background-color: #EDB713;
+  color: #222;
+}
+
 @-webkit-keyframes bounceIn {
   0% {
     top: -330px; }
