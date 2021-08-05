@@ -107,7 +107,7 @@ p {
   font-size: 16px;
 }
 
-p.light {
+p.light, ul.light {
   color: #ccc;
 }
 .centered-text {
@@ -3634,6 +3634,10 @@ body {
 
 .section-header.white h2, .section-header.white h3 {
   color: #fff; }
+
+  .journey p, .journey ul {
+    font-size: 1.1em;
+  }
 
 
 .modSectionHeader .special-title h2 {
