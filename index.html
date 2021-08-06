@@ -87,14 +87,14 @@ testimonials:
       position: 'Managing Partner, Changeist'
 
 clients:
-  - /assets/images/clients/nesta.jpg
   - /assets/images/clients/fsi.jpg
   - /assets/images/clients/ndc.jpg
-  - /assets/images/clients/pbl.jpg
-  - /assets/images/clients/wb.jpg
   - /assets/images/clients/una.jpg
-  - /assets/images/clients/unep.jpg
+  - /assets/images/clients/metabolic.jpg
   - /assets/images/clients/iucn.jpg
+  - /assets/images/clients/pbl.jpg
+  - /assets/images/clients/unep.jpg
+  - /assets/images/clients/wb.jpg
 ---
 
 <div class='full no-padding parallax home-video-wrapper'>
@@ -140,13 +140,15 @@ clients:
       <h2>The HuckleBe Journey</h2>
     </div>
     <p class="light">You make sustainability happen. We make it possible.</p>
-    <p class="light">Through our considered approach, we:
-    <ul class="light">
-     <li>Take you on a journey of self discovery
-     <li>Uncover and respond to your strategic and communications context
-     <li>Help you set new and refreshed intentions and
-     <li>Co-create new actionable plans and ideas that ensure long lasting impact and change.</p>
-    </ul>
+    <p class="light">
+      Through our considered approach, we:
+      <ul class="light">
+        <li>Take you on a journey of self discovery</li>
+        <li>Uncover and respond to your strategic and communications context</li>
+        <li>Help you set new and refreshed intentions and</li>
+        <li>Co-create new actionable plans and ideas that ensure long lasting impact and change.</li>
+      </ul>
+    </p>
     <div class="two spacing"></div>
     <a href="#team" class="button small">Meet the Co-founders</a>
     <div class="three spacing"></div>
@@ -261,6 +263,19 @@ clients:
       </div>
     {% endfor %}
   </div>
+  <div class="two spacing"></div>
+</div>
+<div class="full no-padding">
+    <div class="row">
+      <div class="section-header">
+        <h2>Our beautiful network</h2>
+      </div>
+    </div>
+    <div class="row">
+  <div class="centered-text">
+    <p>Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur.</p>
+    </div>
+  </div>
   <div class="four spacing"></div>
 </div>
 <div class="full no-padding">
@@ -272,6 +287,7 @@ clients:
         </div>
       {% endfor %}
     </div>
+  </div>
 </div>
 
 
@@ -301,15 +317,15 @@ clients:
       </div>
     {% endfor %}
   {% else %}
-  <p class="coming-soon"><i class="fa fa-bullhorn"></i> Coming soon</p>
+    <p class="coming-soon"><i class="fa fa-bullhorn"></i> Coming soon</p>
   {% endif %}
 </div>
-</div>
-  <div class="centered-text">
+
+<div class="centered-text">
   <div class="two spacing"></div>
   <a href="https://mailchimp.com" class="button small">Send me those HuckleBe insights straight to my inbox!</a>
   <div class="three spacing"></div>
-  </div>
+</div>
 
 <div class='full no-overflow no-padding parallax'>
   <div class="mid-half">
@@ -325,20 +341,20 @@ clients:
           <div class='small-12 columns'>
             <div class='items'>
               {% for t in page.testimonials %}
-                <div class='item'>
-                  <p class='quote'>{{ t.quote }}</p>
-                  <div class="two spacing"></div>
-                  <div class='author'>
-                    <p class='author-avatar'>
-                      <img width="80" height="80" alt="" src="{{ t.author.avatar | relative_url }}" />
-                    </p>
-                    <p class='author-name'>
-                      -
-                      <strong>{{ t.author.name }}</strong>
-                      {%- if t.author.position %}, {{ t.author.position }}{% endif %}
-                    </p>
-                  </div>
+              <div class='item'>
+                <p class='quote'>{{ t.quote }}</p>
+                <div class="two spacing"></div>
+                <div class='author'>
+                  <p class='author-avatar'>
+                  <img width="80" height="80" alt="" src="{{ t.author.avatar | relative_url }}" />
+                  </p>
+                  <p class='author-name'>
+                  -
+                  <strong>{{ t.author.name }}</strong>
+                  {%- if t.author.position %}, {{ t.author.position }}{% endif %}
+                  </p>
                 </div>
+              </div>
               {% endfor %}
             </div>
           </div>
@@ -374,4 +390,3 @@ clients:
 <a id='contact'></a>
 {% include contact-form.html %}
 
-{% include social-networks.html %}
