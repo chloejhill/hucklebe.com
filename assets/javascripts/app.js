@@ -3,6 +3,13 @@ jQuery(document).ready(function() {
   jQuery('.mod').each(function() {
     jQuery(this).attr('data-connectors', '1');
   });
+
+  jQuery('.items').slick({
+    pauseOnHover: true,
+    dots: true,
+    autoplaySpeed: 15000,
+  });
+
 });
 
 // extend Tc.Module Class

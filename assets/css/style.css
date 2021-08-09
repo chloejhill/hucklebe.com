@@ -4033,7 +4033,7 @@ body {
   .modTestimonials .slick-dots li button:before {
     font-size: 30px;
     top: -40px; }
-
+.modTestimonials .slick-dots { padding-top: 30px; }
 .modTestimonials.simple {
   padding: 0; }
   .modTestimonials.simple .author .author-avatar {
