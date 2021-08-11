@@ -3930,6 +3930,11 @@ body {
   min-height: 200px;
 }
 
+.main-bg {
+  background-color: #EDB713;
+  color: #222;
+}
+
 .coming-soon {
   text-align: center;
   font-weight: bold;
