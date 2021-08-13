@@ -10,5 +10,14 @@ link:
   text: 'See More'
   url: 'https://ndcpartnership.org/'
 ---
+<b>Putting NDC's work in the spotlight - Helping to combat climate change and build a better future</b>
 
+<p><b>The Challenge: Inspiring behaviour change</b></p>
+FSI sought out strategic communications advice from HuckleBe in early 2021 to mobilise increased support from their members and beyond for a more sustainable flower sector. The HuckleBe team rose to the challenge and set to work by getting under the skin of FSI as well as their target audiences to understand what makes them tick and what information needs to be shared and how in order to ensure more buy-in. 
+
+<p><b>Our Process: Deep dive research and digital storytelling</b></p>
+Equipped with distilled knowledge on FSI desire impact, direction and audience characteristics, the HuckleBe team were able to make targeted recommendations on FSI’s brand new organisational strategy as well as suggest and deliver a set of powerful and engaging communications products for their 2021 Annual General Meeting.
+
+<p><b>The Solution: Spreading the word and demonstrating possibility</b></p>
+By tailoring FSIs new business strategy and communicating its new refreshed offer to its members in an effective and engaging way, including through a social media campaign, FSI is fast becoming the top leader in paving the way towards a more sustainable flower sector ensuring increased buy-in from members.
 
