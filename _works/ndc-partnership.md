@@ -7,8 +7,8 @@ categories:
 client: NDC Partnership (DC)
 date: June 2013
 link:
-  text: 'CTA text button'
-  url: 'http://pr3ssh.net'
+  text: 'See More'
+  url: 'https://ndcpartnership.org/'
 ---
 
-Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur.
+
