@@ -13,11 +13,11 @@ link:
 
 <b>The Power of Flowers - Working towards a transparent and responsible supply chain</b>
 
-<b>The challenge: Generating support for a sustainable flower sector</b>
+<p><b>The challenge: Generating support for a sustainable flower sector</b></p>
 FSI sought out strategic communications advice from HuckleBe in early 2021 to mobilise increased support from their members and beyond for a more sustainable flower sector. The HuckleBe team rose to the challenge and set to work by getting under the skin of FSI as well as their target audiences to understand what makes them tick and what information needs to be shared and how in order to ensure more buy-in. 
 
 <b>Our Process: Translating strategy into effective content</b>
-QEquipped with distilled knowledge on FSI desire impact, direction and audience characteristics, the HuckleBe team were able to make targeted recommendations on FSI’s brand new organisational strategy as well as suggest and deliver a set of powerful and engaging communications products for their 2021 Annual General Meeting.
+Equipped with distilled knowledge on FSI desire impact, direction and audience characteristics, the HuckleBe team were able to make targeted recommendations on FSI’s brand new organisational strategy as well as suggest and deliver a set of powerful and engaging communications products for their 2021 Annual General Meeting.
 
 <b>The Solution: Communicating the importance of change </b>
 By tailoring FSIs new business strategy and communicating its new refreshed offer to its members in an effective and engaging way, including through a social media campaign, FSI is fast becoming the top leader in paving the way towards a more sustainable flower sector ensuring increased buy-in from members.
