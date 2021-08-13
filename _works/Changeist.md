@@ -4,11 +4,11 @@ slides:
   - "/assets/images/works/changeist-nesta-tile.jpg"
 categories:
   - Sustainability foreight & Trend mapping
-client: Changeist (The Hague) & NESTA (London)
+client: Changeist (The Hague)
 date: May 2021
 link:
   text: 'See more'
-  url: 'http://pr3ssh.net'
+  url: 'https://changeist.com/'
 ---
 
 Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur.
