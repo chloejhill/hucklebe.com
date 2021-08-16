@@ -5,7 +5,7 @@ slides:
 categories:
   - Communications strategy & Content calendar planning
 client: The World Bank (Phnom Penh, Cambodia)
-date: June 2013
+date: March 2020
 link:
   text: 'See more'
   url: 'https://www.worldbank.org/en/country/cambodia'
