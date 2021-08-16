@@ -14,7 +14,7 @@ link:
 <b>Putting nature at the heart of business - Strengthening the business engagement capacities of local conservation organisations</b>
 
 <p><b>The Challenge: Inspiring increased engagement between local NGOs and businesses</b></p>
-Global conservation organisation, IUCN, approached HuckleBe to advise on the creative dissemination of the final project outcomes of one of their flagship partnership programmes, ‘Shared Resources, Joint Solutions’; an initiative which aimed at strengthening the capacity of local NGOs across various countries in Latin America, Asia and Africa to enhance climate resilience, water supply and food security.
+Global conservation organisation, IUCN, approached HuckleBe to advise on the creative dissemination of the final project outcomes of one of their flagship partnership programmes ('Shared Resources, Joint Solutions’; an initiative which aimed at strengthening the capacity of local NGOs across various countries in Latin America, Asia and Africa to enhance climate resilience, water supply and food security) in order to boost engagement between local NGOs and businesses globally.
 
 <p><b>Our Process: Getting creative with content and video</b></p>
 Working co-creatively with IUCN, HuckleBe distilled key lessons learnt and experiences from all SRJS 16 case studies into 1) a final project brochure, “Top business engagement tips for conservation organisations” and 2) a short engaging video with music and text overlay.
