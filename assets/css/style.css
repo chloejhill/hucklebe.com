@@ -834,7 +834,9 @@ ul.shortcode-list {
 /* portfolio  */
 ul.info {
   margin: 0;
-  list-style: none; }
+  list-style: none;
+  color: #000;
+}
   ul.info a {
     margin-right: 5px; }
   ul.info i {
@@ -4924,3 +4926,14 @@ body {
       float: right; }
     .centered-nav.contain-to-grid .top-bar .title-area .name h1 a {
       display: none; } }
+
+
+      blockquote {
+        border-left: 5px solid #edb713;
+        padding: 10px;
+        margin-bottom: 60px;
+      }
+      blockquote p {
+        color: #000;
+        font-weight: bold;
+      }
