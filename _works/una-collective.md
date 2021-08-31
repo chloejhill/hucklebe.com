@@ -1,7 +1,7 @@
 ---
 thumbnail: "/assets/images/works/una-tile.jpg"
 slides:
-  - "/assets/images/works/una.jpg"
+  - "/assets/images/works/una-tile.jpg"
 categories:
   - Impact Branding
 client: Una Collective (Amsterdam)
