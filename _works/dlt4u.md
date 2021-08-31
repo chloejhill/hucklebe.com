@@ -1,7 +1,7 @@
 ---
 thumbnail: "/assets/images/works/dlt4u-tile.jpg"
 slides:
-  - "/assets/images/works/dlt4u-tile.jpg"
+  - "/assets/images/works/dlt4u.jpg"
 categories:
   - Capability Training
 client: DLT4U (Barcelona)
