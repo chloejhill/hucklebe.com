@@ -248,7 +248,6 @@ clients:
           <div class='intro'>
             <h3>{{ member.name | escape }}</h3>
             <h4>{{ member.position | escape }}</h4>
-            <p>{{ member.desc | escape }}</p>
             <ul class='socials'>
               {% for social in member.socials %}
                 <li>
@@ -258,6 +257,7 @@ clients:
                 </li>
               {% endfor %}
             </ul>
+            <p>{{ member.desc | escape }}</p>
           </div>
         </div>
       </div>
