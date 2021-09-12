@@ -5,7 +5,7 @@ slides:
 categories:
   - Strategic messaging & Creative Content
 client: NDC Partnership (DC)
-date: June 2013
+date: September 2020
 link:
   text: 'See More'
   url: 'https://ndcpartnership.org/'
