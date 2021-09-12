@@ -5,7 +5,7 @@ slides:
 categories:
   - Creative content & video production
 client: IUCN (Geneva)
-date: June 2013
+date: December 2020
 link:
   text: 'See more'
   url: 'https://www.iucn.org/theme/business-and-biodiversity/resources/biobiz-exchange-resource-guide/top-tips-csos-engaging-business-nature'
