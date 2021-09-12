@@ -5,10 +5,10 @@ slides:
 categories:
   - Capability Training
 client: DLT4U (Barcelona)
-date: June 2013
+date: March 2021
 link:
-  text: 'CTA text button'
-  url: 'http://pr3ssh.net'
+  text: 'See More'
+  url: 'https://www.ideasforchange.com/'
 ---
 
 Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur.
