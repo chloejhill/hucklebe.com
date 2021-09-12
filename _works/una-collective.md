@@ -5,10 +5,10 @@ slides:
 categories:
   - Impact Branding
 client: Una Collective (Amsterdam)
-date: June 2013
+date: September 2021
 link:
-  text: 'CTA text button'
-  url: 'http://pr3ssh.net'
+  text: 'See More'
+  url: 'https://unacollective.com/'
 ---
 
 Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur.
