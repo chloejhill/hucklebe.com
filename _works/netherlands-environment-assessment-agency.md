@@ -5,7 +5,7 @@ slides:
 categories:
   - Digital engagement & Impact storytelling
 client: Netherlands Environment Assessment Agency (PBL)
-date: June 2013
+date: July 2021
 link:
   text: 'See more'
   url: 'https://themasites.pbl.nl/nature-based-solutions/'
