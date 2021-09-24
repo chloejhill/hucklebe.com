@@ -18,7 +18,7 @@ Chloe and Hayley first crossed paths at a meetup for sustainability-savvy creati
 
 This shared belief sparked the beginning of a unique partnership to create something extraordinary. Something that would be transformative in nature. That would inspire believability by harnessing the power of possibility and, through creative and strategic communication, ensure that we reimagine our responses to global sustainability challenges. That would harness their shared drive to shift the status quo and to create something daring and exciting, but at the same time deeply human and relevant. And so the seeds of HuckleBe were sown.
 
-' “I remember one of the first times Chloe and I met up, within minutes Chloe's kitchen walls and windows had been covered with post-it notes capturing how we both - with our combined talents, skills and knowledge - could help solve today’s sustainability challenges creatively! This unique blend was the natural gateway for us to harness our superpowers and create something now and for the future.” <br> &mdash; Hayley Bagnall, HuckleBe co-founder & Chief Innovator
+> I remember one of the first times Chloe and I met up, within minutes Chloe's kitchen walls and windows had been covered with post-it notes capturing how we both - with our combined talents, skills and knowledge - could help solve today’s sustainability challenges creatively! This unique blend was the natural gateway for us to harness our superpowers and create something now and for the future.” <br> &mdash; Hayley Bagnall, HuckleBe co-founder & Chief Innovator
 
 ADD IMAGE HERE
 
