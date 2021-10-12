@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Behaviour change? It's all about communication"
+date:   2021-09-25
+author: HuckeBe
 images:
   - /assets/images/blog/behaviour-change.jpg
 ---
