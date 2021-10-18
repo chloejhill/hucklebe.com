@@ -34,7 +34,7 @@ Effectively communicating your message is key to sparking behaviour change — w
 
 When it comes to convincing people to make a change for the better, it’s no use churning out cold, hard data. **Humans don’t connect with numbers; we connect with narratives**. And how do you ensure a beginning, a middle and an inspired ending, like in any good story? By incorporating creative and strategic communications right from the start of each project.
 
-Making sure you’re **prioritising communications right from the word go** is important for two key reasons. Firstly, it  ensures  you  can capitalise on opportunities to generate unique —  perhaps even spontaneous —  content, assumptions they arise. Secondly, it enables you to  share the innovation, evolution and authenticity that’s happening behind the scenes  as  your project develops; in other words, what makes your  work  worthy of your audience’s time and attention.
+Making sure you’re **prioritising communications right from the word go** is important for two key reasons. Firstly, it  ensures  you  can capitalise on opportunities to generate unique —  perhaps even spontaneous —  content, as they arise. Secondly, it enables you to  share the innovation, evolution and authenticity that’s happening behind the scenes  as  your project develops; in other words, what makes your  work  worthy of your audience’s time and attention.
 
 #### How HuckleBe does it
 
