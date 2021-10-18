@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Transformation starts on the inside"
-date:   2021-10-12
+date:   2021-10-10
 author: HuckleBe
 images:
   - /assets/images/blog/imagine.jpg
