@@ -23,4 +23,4 @@ Creative activities such as ‘Founder story fortune cookies’ to ideating on �
 
 #### The Solution: Delivering bold impact branding pieces aimed at behaviour change
 
-The Founder Story and Manifesto are inspiring and guiding the UNA Collective team in practical ways, as well as boosting engagement, organisational visibility and thought leadership with wider stakeholders across both the private and public sector specifically within the Netherlands who are working in this space. With UNA Collective confidently walking their talk, they can influence others to harness these new ways of working and actively be a part of this societal shift.
+The Founder Story and Manifesto are inspiring and guiding the UNA Collective team in practical ways, as well as boosting engagement, organisational visibility and thought leadership with wider stakeholders, across both the private and public sector, and specifically within the Netherlands who are working in this space. With UNA Collective confidently walking their talk, they can influence others to harness these new ways of working and actively be a part of this societal shift.
