@@ -5,7 +5,7 @@ slides:
 categories:
   - Communications strategy & Content calendar planning
 client: The World Bank (Phnom Penh, Cambodia)
-date: March 2020
+date: August 2020
 link:
   text: 'See more'
   url: 'https://www.worldbank.org/en/country/cambodia'
@@ -15,7 +15,7 @@ link:
 
 #### The Challenge: Ensuring that Cambodia’s long-term sustainability is placed at the heart of the country’s agenda
 
-HuckleBe provided strategic communications advice to the World Bank’s Environment, Natural Resources and Blue Economy Global Practice Hub (ENB) in Cambodia to help enhance their engagement with the Cambodian government and other influential regional as well as global actors around improved decision-making on natural resources management and local livelihoods.
+HuckleBe provided strategic communications advice to the World Bank’s Environment, Natural Resources and Blue Economy Global Practice Hub (ENB) in Cambodia to help enhance their engagement with the Cambodian government and other influential regional and global actors on improving decision-making for natural resources management and local livelihoods.
 
 #### Our Process: Unpacking target audiences and crafting a tailored communications strategy
 
