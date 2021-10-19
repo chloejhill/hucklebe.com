@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The HuckleBe Journey: How an unlikely pair launched an impact-driven company with a twist"
-date:   2021-18-01
+date:   2021-10-18
 author: HuckleBe
 images:
   - /assets/images/blog/the-hucklebe-journey.jpg
