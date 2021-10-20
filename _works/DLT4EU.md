@@ -4,7 +4,7 @@ slides:
   - "/assets/images/works/dlt4u.jpg"
 categories:
   - Capability Training
-client: DLT4U (Barcelona)
+client: DLT4EU (Barcelona)
 date: March 2021
 link:
   text: 'See More'
