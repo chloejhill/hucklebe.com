@@ -1,4 +1,5 @@
 ---
+name: UNA Collective
 thumbnail: "/assets/images/works/una-tile.jpg"
 slides:
   - "/assets/images/works/una.jpg"

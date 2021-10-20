@@ -1,4 +1,5 @@
 ---
+name: The World Bank
 thumbnail: "/assets/images/works/wb-tile.jpg"
 slides:
   - "/assets/images/works/wb.jpg"

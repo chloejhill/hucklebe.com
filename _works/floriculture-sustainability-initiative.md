@@ -1,4 +1,5 @@
 ---
+name: Floriculture Sustainability Initiative
 thumbnail: "/assets/images/works/fsi-tile.jpg"
 slides:
   - "/assets/images/works/fsi.jpg"

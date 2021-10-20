@@ -1,4 +1,5 @@
 ---
+name: DLT4EU
 thumbnail: "/assets/images/works/dlt4u-tile.jpg"
 slides:
   - "/assets/images/works/dlt4u.jpg"

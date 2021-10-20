@@ -1,4 +1,5 @@
 ---
+name: Changeist
 thumbnail: "/assets/images/works/changeist-nesta-tile.jpg"
 slides:
   - "/assets/images/works/changeist-nesta.jpg"

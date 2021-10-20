@@ -1,4 +1,5 @@
 ---
+name: IUCN
 thumbnail: "/assets/images/works/iucn-tile.jpg"
 slides:
   - "/assets/images/works/iucn.jpg"

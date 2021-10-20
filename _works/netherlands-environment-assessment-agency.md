@@ -1,4 +1,5 @@
 ---
+name: Netherlands Environment Assessment Agency
 thumbnail: "/assets/images/works/pbl-tile.jpg"
 slides:
   - "/assets/images/works/pbl-rotate.jpg"

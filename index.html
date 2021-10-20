@@ -206,7 +206,7 @@ clients:
             <img width="{{width}}" height="{{height}}" alt="" src="{{ work.thumbnail | relative_url }}" />
             <div class='overlay'>
               <div class='thumb-info'>
-                <h3>{{ work.title | downcase | capitalize }}</h3>
+                <h3>{{ work.name }}</h3>
                 <p>{{ work.categories | join:" & " | escape }}</p>
               </div>
             </div>
@@ -315,8 +315,17 @@ clients:
   {% endfor %}
 </div>
 
-<div class="centered-text">
-  <a href="https://mailchimp.com" class="button small">Send me those HuckleBe insights straight to my inbox!</a>
+<div class='full no-overflow no-padding parallax'>
+  <div class="mid-half" style="padding-bottom: 0px;">
+    <div class="row">
+      <div class="section-header">
+        <h2>The HuckleBe insights</h2>
+        <br>
+        <a href="https://mailchimp.com" class="button small">Send me to my inbox!</a>
+        <div class="two spacing"></div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <div class='full no-overflow no-padding parallax'>

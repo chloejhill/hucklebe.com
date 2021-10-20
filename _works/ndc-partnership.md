@@ -1,4 +1,5 @@
 ---
+name: The NDC Partnership
 thumbnail: "/assets/images/works/ndc-tile.jpg"
 slides:
   - "/assets/images/works/ndc.jpg"
