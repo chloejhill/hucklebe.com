@@ -36,4 +36,4 @@ For **transformative communication that really speaks to people**, think HuckleB
 
 In particular, **the unique HuckleBe approach bridges the gap between the technical world of data and that of pragmatic decision-making**; through humanising the numbers, crafting messages that matter and developing powerful and transformative communication strategies that not only set you apart, but ensure you are achieving impact and creating the change you strive for!
 
-Interested in knowing more? Check out our Services page [here](/#services) and [get in touch with us today if you'd like to talk more.](/#contact).
+Interested in knowing more? Check out our Services page [here](/#services) and [get in touch with us today if you'd like to talk more.](/#contact)
