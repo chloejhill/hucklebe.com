@@ -16,7 +16,7 @@ link:
 
 #### The Challenge: Generating support for a sustainable flower sector
 
-FSI sought out strategic communications advice from HuckleBe in early 2021 to mobilise increased support from their members and beyond for a more sustainable flower sector. The HuckleBe team rose to the challenge and set to work by getting under the skin of FSI as well as their target audiences to understand what makes them tick and what information needs to be shared and how in order to ensure more buy-in. 
+FSI sought out strategic communications advice from HuckleBe in early 2021 to mobilise increased support from their members and beyond for a more sustainable flower sector. The HuckleBe team rose to the challenge and set to work by immersing themselves in FSI specific context as well as their target audiences' to understand what makes them tick and what information needs to be shared, and how, in order to ensure more buy-in. 
 
 #### Our Process: Translating strategy into effective content
 
