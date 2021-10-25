@@ -4,7 +4,7 @@ thumbnail: "/assets/images/works/pbl-tile.jpg"
 slides:
   - "/assets/images/works/pbl-rotate.jpg"
 categories:
-  - Digital engagement & Impact storytelling
+  - Digital engagement & impact storytelling
 client: Netherlands Environment Assessment Agency (PBL)
 date: July 2021
 link:
