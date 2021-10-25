@@ -4,7 +4,7 @@ thumbnail: "/assets/images/works/changeist-nesta-tile.jpg"
 slides:
   - "/assets/images/works/changeist-nesta.jpg"
 categories:
-  - Sustainability foreight & Trend mapping
+  - Sustainability foresight & trend mapping
 client: Changeist (The Hague)
 date: May 2021
 link:
