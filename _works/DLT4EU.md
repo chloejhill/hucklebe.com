@@ -4,7 +4,7 @@ thumbnail: "/assets/images/works/dlt4u-tile.jpg"
 slides:
   - "/assets/images/works/dlt4u.jpg"
 categories:
-  - Capability Training
+  - Capability training
 client: DLT4EU (Barcelona)
 date: March 2021
 link:
