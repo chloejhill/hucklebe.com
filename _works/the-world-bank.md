@@ -4,7 +4,7 @@ thumbnail: "/assets/images/works/wb-tile.jpg"
 slides:
   - "/assets/images/works/wb.jpg"
 categories:
-  - Communications strategy & Content calendar planning
+  - Communications strategy & content calendar planning
 client: The World Bank (Phnom Penh, Cambodia)
 date: August 2020
 link:
