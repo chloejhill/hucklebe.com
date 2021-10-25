@@ -28,11 +28,11 @@ At HuckleBe’s core is a **meaningful, trust-filled and truly creative bond** b
 
 > “Chloe’s unique and straightforward approach, plus her unrelenting passion and drive to inspire change, are one of the many things that make HuckleBe tick. She’s an epic communicator and connector, with a great sense of humour and a transformational way with words. She’s always thinking about the big picture, moving to where the action’s needed, and staying ahead of the game.” <br> &mdash; Hayley Bagnall, HuckleBe co-founder & Chief Innovator
 
-And there’s no better home for HuckleBe than the Netherlands. With EU-leading uptake in electric cars, the first recycled bike path, and the world’s first floating urban farm and solar park, the Dutch have a well-earned reputation for technological innovation and progressive business approaches. Because of this mindset (and precisely because there’s still much work to do!) the HuckleBe co-founders know that the Netherlands is right where they neeed to be to build this exciting new venture and where it can thrive in a climate of pioneering global sustainability.
+**And there’s no better home for HuckleBe than the Netherlands**. With EU-leading uptake in electric cars, the first recycled bike path, and the world’s first floating urban farm and solar park, the Dutch have a well-earned reputation for technological innovation and progressive business approaches. Because of this mindset (and precisely because there’s still much work to do!) the HuckleBe co-founders know that the Netherlands is right where they need to be to build this exciting new venture and where it can thrive in a climate of pioneering global sustainability.
 
 #### Bold, honest, inclusive: this is telling your story, the HuckleBe way
 
-For **transformative communication that really speaks to people**, think HuckleBe. From bold, intuitive  strategy to in-house capability building, **HuckleBe offers a conscious, creative and tailored suite of services to clients seeking to reimagine their impact — and realise its full potential**.
+For **transformative communication that really speaks to people**, think HuckleBe. From bold, intuitive  strategy to in-house capability building, **HuckleBe offers a conscious, creative and tailored suite of services to clients seeking to reimagine their impact — and realise their full human potential**.
 
 In particular, **the unique HuckleBe approach bridges the gap between the technical world of data and that of pragmatic decision-making**; through humanising the numbers, crafting messages that matter and developing powerful and transformative communication strategies that not only set you apart, but ensure you are achieving impact and creating the change you strive for!
 
