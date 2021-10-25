@@ -4,7 +4,7 @@ thumbnail: "/assets/images/works/una-tile.jpg"
 slides:
   - "/assets/images/works/una.jpg"
 categories:
-  - Impact Branding
+  - Impact branding
 client: Una Collective (Amsterdam)
 date: September 2021
 link:
