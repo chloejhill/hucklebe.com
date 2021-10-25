@@ -24,4 +24,4 @@ To better enable Changeist in their future trend advisory role, HuckleBe set to 
 
 #### The Solution: Critical thinking & strategic foresight
 
-By uncovering future trends and applying a critical thinking process along with strategic foresight, HuckleBe were able to arm Changeist and the UK Innovation charity with essential early intelligence on a number of key topics connected with food systems and energy. This intel will be used to shape organisational strategy now and for the future and how they can best respond to what’s likely about to happen in the short, medoum and long-term with regard to sustainability.
+By uncovering future trends and applying a critical thinking process along with strategic foresight, HuckleBe were able to equip Changeist and the UK Innovation charity with essential early intelligence on a number of key topics connected with food systems and energy. This intel will be used to shape organisational strategy now and for the future and how they can best respond to what’s likely about to happen in the short, medium and long-term with regard to sustainability.
