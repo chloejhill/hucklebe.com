@@ -4,7 +4,7 @@ thumbnail: "/assets/images/works/fsi-tile.jpg"
 slides:
   - "/assets/images/works/fsi.jpg"
 categories:
-  - Strategic Communciations
+  - Strategic communications
 client: Floriculture Sustainability Initiative (Brussels)
 date: January 2021
 link:
