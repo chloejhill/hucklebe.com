@@ -4,7 +4,7 @@ thumbnail: "/assets/images/works/ndc-tile.jpg"
 slides:
   - "/assets/images/works/ndc.jpg"
 categories:
-  - Strategic messaging & Creative Content
+  - Strategic messaging & creative Content
 client: NDC Partnership (DC)
 date: September 2020
 link:
