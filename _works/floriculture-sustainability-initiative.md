@@ -20,7 +20,7 @@ FSI sought out strategic communications advice from HuckleBe in early 2021 to mo
 
 #### Our Process: Translating strategy into effective content
 
-Equipped with distilled knowledge on FSI desire impact, direction and audience characteristics, the HuckleBe team were able to make targeted recommendations on FSI’s brand new organisational strategy as well as suggest and deliver a set of powerful and engaging communications products for their 2021 Annual General Meeting.
+Equipped with distilled knowledge on FSI desired impact, direction and audience characteristics, the HuckleBe team were able to make targeted recommendations on FSI’s brand new organisational strategy as well as suggest and deliver a set of powerful and engaging communications products for their 2021 Annual General Meeting.
 
 #### The Solution: Communicating the importance of change
 
