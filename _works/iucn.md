@@ -24,4 +24,4 @@ Working co-creatively with IUCN, HuckleBe distilled key lessons learnt and exper
 
 #### The Solution: Crisp messaging with top business engagement tips in an easy-to-share format
 
-By summarizing these lessons and experiences from SRJS local partners into a top tip guide and short video, IUCN were able to provide a roadmap for other conservation organisations who are interested in enhancing their opportunities to engage business in nature.
+By summarising these lessons and experiences from SRJS local partners into a top tip guide and short video, IUCN were able to provide a roadmap for other conservation organisations who are interested in enhancing their opportunities to engage business in nature.
