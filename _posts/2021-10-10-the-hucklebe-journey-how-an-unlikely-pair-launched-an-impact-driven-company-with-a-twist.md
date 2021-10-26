@@ -16,13 +16,13 @@ Chloe and Hayley first crossed paths at a meetup for sustainability-savvy creati
 
 This shared belief sparked the beginning of a unique partnership to create something extraordinary. Something that would be transformative in nature. That would inspire believability by harnessing the power of possibility and, through creative and strategic communication, ensure that we start to **reimagine our responses to global sustainability challenges**. That would harness their shared drive to shift the status quo and to create something daring and exciting, but at the same time deeply human and relevant. And so the seeds of HuckleBe were sown.
 
-> I remember one of the first times Chloe and I met up - within minutes Chloe’s kitchen walls and windows were completely covered in post-it notes capturing how our joint ideas, skills and expertise could be carefully distilled into what is today the HuckleBe secret sauce and creatively reimagine how to address today’s sustainability challenges!” <br> &mdash; Hayley Bagnall, HuckleBe co-founder & Chief Innovator
+> "I remember one of the first times Chloe and I met up - within minutes Chloe’s kitchen walls and windows were completely covered in post-it notes capturing how our joint ideas, skills and expertise could be carefully distilled into what is today the HuckleBe secret sauce and creatively reimagine how to address today’s sustainability challenges!” <br> &mdash; Hayley Bagnall, HuckleBe co-founder & Chief Innovator
 
 #### The heart of HuckleBe
 
 At HuckleBe’s core is a **meaningful, trust-filled and truly creative bond** between Chief Strategist Chloe and Chief Innovator Hayley. The journey to founding HuckleBe helped them uncover the spark that’s unique to collaborative pairs: it’s the combination of their shared goals and mutual vision, but differing talents and unlikely journeys, that makes this creative partnership powerful.
 
-> Hayley's unrelenting sense of what's possible, empathy-driven approach and exceptional creative visioning and strategic foresight made her the ideal partner to bring  HuckleBe to life and ready to deliver supreme impact.” <br> &mdash; Chloe Hill, HuckleBe co-founder & Chief Strategist
+> "Hayley's unrelenting sense of what's possible, empathy-driven approach and exceptional creative visioning and strategic foresight made her the ideal partner to bring  HuckleBe to life and ready to deliver supreme impact.” <br> &mdash; Chloe Hill, HuckleBe co-founder & Chief Strategist
 
 **The drive to do things differently**, to remedy what needs attention when it comes to delivering sustainability effectively, and to **update the ideas that are stuck in the past** is embedded in HuckleBe’s work, alongside truly valuing different perspectives. A desire to transcend boundaries and to devise innovative solutions with empathy, flexibility, mutual trust and admiration overarches their formidable work ethic.
 
