@@ -20,7 +20,7 @@ HuckleBe provided strategic communications advice to the World Bank’s Environm
 
 #### Our Process: Unpacking target audiences and crafting a tailored communications strategy
 
-By immersing ourselves in ENB’s vision and getting under the skin of both their internal and external audience characteristics, the HuckleBe team carefully articulated a full communications strategy along with a provisional content calendar for the ENB unit for the next 18 months.
+By immersing ourselves in ENB’s vision and uncovering both their internal and external audience characteristics, the HuckleBe team carefully articulated a full communications strategy along with a provisional content calendar for the ENB unit for the next 18 months.
 
 #### The Solution: Being equipped to have maximum strategic impact
 
