@@ -20,7 +20,7 @@ HuckleBe provided creative communications services to the Dutch Environment Agen
 
 #### Our Process: Deep dive case study research and digital storytelling
 
-Working closely with the PBL team, HuckleBe identified various projects across Latin America, Asia, Africa and Europe where landscape restoration has been implemented successfully and at scale. By conducting deep-dive desk and interview research into each project and applying imapct storytelling techniques to boost digital engagement, our team generated a powerful set of 12 engaging case studies each telling a unique story of landscape restoration from different corners of the globe. 
+Working closely with the PBL team, HuckleBe identified various projects across Latin America, Asia, Africa and Europe where landscape restoration has been implemented successfully and at scale. By conducting deep-dive desk and interview research into each project and applying impact storytelling techniques to boost digital engagement, our team generated a powerful set of 12 engaging case studies each telling a unique story of landscape restoration from different corners of the globe. 
 
 #### The Solution: Demonstrating what’s possible with real-life stories
 
