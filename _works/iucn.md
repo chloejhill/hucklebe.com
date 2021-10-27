@@ -20,7 +20,7 @@ Global conservation organisation, IUCN, based in Switzerland, approached HuckleB
 
 #### Our Process: Getting creative with content and video
 
-Working co-creatively with IUCN, HuckleBe distilled key lessons learnt and experiences from all SRJS 16 case studies into 1) a final project brochure, “Top business engagement tips for conservation organisations” and 2) a short engaging video with music and text overlay.
+Working co-creatively with IUCN, HuckleBe distilled key lessons learned and experiences from all SRJS 16 case studies into 1) a final project brochure, “Top business engagement tips for conservation organisations” and 2) a short engaging video with music and text overlay.
 
 #### The Solution: Crisp messaging with top business engagement tips in an easy-to-share format
 
