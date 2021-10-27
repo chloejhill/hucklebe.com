@@ -16,7 +16,7 @@ link:
 
 #### The Challenge: Inspiring increased engagement between local NGOs and businesses
 
-Global conservation organisation, IUCN, based in Switzerland, approached HuckleBe to advise on the creative dissemination of the final project outcomes of one of their flagship partnership programmes which focused on strengthening the capacity of local NGOs across Latin America, Asia and Africa to enhance climate resilience, water supply and food security. The purpose of the engagement was to boost engagement between local NGOs and businesses, globally.
+Global conservation organisation, IUCN, based in Switzerland, approached HuckleBe to advise on the creative dissemination of the final project outcomes of one of their flagship partnership programmes (Shared Resources Joint Solutions or SRJS) which focused on strengthening the capacity of local NGOs across Latin America, Asia and Africa to enhance climate resilience, water supply and food security. The purpose of the engagement was to boost engagement between local NGOs and businesses, globally.
 
 #### Our Process: Getting creative with content and video
 
