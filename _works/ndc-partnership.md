@@ -4,15 +4,15 @@ thumbnail: "/assets/images/works/ndc-tile.jpg"
 slides:
   - "/assets/images/works/ndc.jpg"
 categories:
-  - Strategic messaging & creative Content
-client: NDC Partnership (DC)
+  - Strategic messaging & creative content
+client: The NDC Partnership (Washington, DC)
 date: September 2020
 link:
   text: 'See More'
   url: 'https://ndcpartnership.org/'
 ---
 
-### Putting NDC's work in the spotlight - Helping to combat climate change and build a better future
+### Putting the NDC Partnership's work in the spotlight - Helping to combat climate change and build a better future
 
 #### The Challenge: Inspiring the application of climate change solutions
 
