@@ -9,7 +9,7 @@ client: DLT4EU (Barcelona)
 date: March 2021
 link:
   text: 'See More'
-  url: 'https://www.ideasforchange.com/'
+  url: 'https://www.dlt4.eu/'
 ---
 ### Finding new ways to talk about technology as an enabler for social good - Empowering digital start-ups with storytelling techniques
 
