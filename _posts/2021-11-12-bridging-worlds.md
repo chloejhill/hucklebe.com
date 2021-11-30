@@ -4,7 +4,7 @@ title:  "HuckleBe is a new type of agency that can bridge worlds. Here’s why."
 date:   2021-11-12
 author: HuckleBe
 images:
-  - /assets/images/blog/imagine.jpg
+  - /assets/images/blog/bridge.jpg
 ---
 HuckleBe: a new name, a new concept, a new vehicle for reimagining the future. Representing the co-founders’ boundless drive to position sustainability in the spotlight it needs, with fresh and innovative energy. 
 
