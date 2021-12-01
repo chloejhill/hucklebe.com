@@ -14,7 +14,7 @@ Yet the name is also rooted in the **personal values** that brought Chloe and Ha
 
 The Xennial microgeneration groups **people born between 1977 and 1983, nestled between Gen X and Millennials.** These sandwich generations likely need no introduction. On the one side we have the “forgotten generation” of cynical Gen Xers, and on the other the time-pressed, high-debt and professionally overloaded Millennials. 
 
-![Alt text](assets/images/xennials.jpg)
+[Alt text](assets/images/xennials.jpg)
 
 Squeezed in the middle, **Xennials struck it lucky.** Born in the late 1970s, they were too young to be hard hit by the economic downturn a decade later. The group quickly cottoned on to new technologies too, even if they were slightly too old to come under the digital-first umbrella. What’s more, Xennials are just as optimistic as the Millennials that followed them. 
 
