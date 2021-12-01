@@ -18,7 +18,7 @@ Squeezed in the middle, **Xennials struck it lucky.** Born in the late 1970s, th
 
 #### It’s Xennial energy that makes HuckleBe different
 
-**The HuckleBe name was created from a random stroke of inspiration, a touch of nostalgia and a healthy dose of future-facing optimism.** For co-founders Hayley and Chloe, the original inspiration came from the ‘Huckleberry friend’ in the lyrics to Moon River; a timeless tune that evoked wistful memories of their Xennial childhood adventures, playfulness, hope, possibility and wonder, in a playful, retro and comforting way. 
+**The HuckleBe name was created from a random stroke of inspiration, a touch of nostalgia and a healthy dose of future-facing optimism.** For co-founders Hayley and Chloe, the original inspiration came from the ‘Huckleberry friend’ in the [lyrics to Moon River](https://en.wikipedia.org/wiki/Moon_River); a timeless tune that evoked wistful memories of their Xennial childhood adventures, playfulness, hope, possibility and wonder, in a playful, retro and comforting way. 
 
 With a clear and resonant connection to their past, the name just needed a forward-looking final touch: HuckleBe - with an emphasis on the ‘Be’ and a sense of ‘becoming...’ 
 
