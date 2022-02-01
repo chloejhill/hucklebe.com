@@ -20,7 +20,11 @@ When it comes to the actual meaning of buzzwords and the solutions they point to
 
 #### 3. People feel excluded.
 
-South African eco role model and environmental educator Xoli Fuyani shared this [‘reality check’ reflection](https://www.linkedin.com/posts/xoli-fuyani-9b444a24_cop26its-been-interesting-to-note-the-activity-6868911365315149824-QVvZ/) after attending COP26 in Glasgow: “Many people felt excluded and left behind due to communication barriers. It was clear there was no care to detail on inclusion. Which is a clear indication that those who are more affected will always be left out.” **This means that those who are most impacted by the changing climate, water scarcity and biodiversity loss — to name but a few of our major and current sustainability challenges — often don't have their voices heard or their experiences shared. This is a crucial missed opportunity to co-create a better future.**
+South African eco role model and environmental educator Xoli Fuyani shared this [‘reality check’ reflection](https://www.linkedin.com/posts/xoli-fuyani-9b444a24_cop26its-been-interesting-to-note-the-activity-6868911365315149824-QVvZ/) after attending COP26 in Glasgow: 
+
+> “Many people felt excluded and left behind due to communication barriers. It was clear there was no care to detail on inclusion. Which is a clear indication that those who are more affected will always be left out.” <br> 
+
+This means that those who are most impacted by the changing climate, water scarcity and biodiversity loss — to name but a few of our major and current sustainability challenges — often don't have their voices heard or their experiences shared. **This is a crucial missed opportunity to co-create a better future.**
 
 #### How to shift from empty words to inspire real change: Grounding the ‘blah, blah, blah’
 
