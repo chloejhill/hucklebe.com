@@ -12,11 +12,11 @@ These days, it’s buzzword mania in the sustainability scene as decision-makers
 
 #### 1. It’s not relatable.
 
-Discussing sustainability in hard-to-grasp technical terms means that true understanding is kept within the most powerful, educated and informed circles of society. Yes, these terms might mean something to these people — including the siloed worlds of corporations and governments — but they don’t really mean much to the average person who’s also being affected by the global sustainability crisis. **Using unrelatable, non-human-centric language that doesn't resonate won’t encourage the vast majority of us to act, as it simply fails to create a relevant, emotional connection with people’s daily existence.**
+Discussing sustainability in **hard-to-grasp technical terms** means that true understanding is kept within the most powerful, educated and informed circles of society. Yes, these terms might mean something to these people — including the siloed worlds of corporations and governments — but they **don’t really mean much to the average person** who’s also being affected by the global sustainability crisis. Using unrelatable, non-human-centric language that doesn't resonate won’t encourage the vast majority of us to act, as it simply fails to **create a relevant, emotional connection with people’s daily existence.**
 
 #### 2. It’s confusing.
 
-When it comes to the actual meaning of buzzwords and the solutions they point to, **confusion and ambiguities are rife.** These buzzwords might sound good and offer a sense of urgency, but **they don't give a clear explanation of the issue at hand and what needs to happen to address it.** This means that many of us are **left confused as to what we can actually do to contribute to a more sustainable world.**
+When it comes to the actual meaning of buzzwords and the solutions they point to, **confusion and ambiguities are rife.** These buzzwords might sound good and offer a sense of urgency, but **they don't give a clear explanation** of the issue at hand and what needs to happen to address it. This means that **many of us are left confused** as to what we can actually do to contribute to a more sustainable world.
 
 #### 3. People feel excluded.
 
@@ -24,11 +24,11 @@ South African eco role model and environmental educator Xoli Fuyani shared this 
 
 > “Many people felt excluded and left behind due to communication barriers. It was clear there was no care to detail on inclusion. Which is a clear indication that those who are more affected will always be left out.” <br> 
 
-This means that those who are most impacted by the changing climate, water scarcity and biodiversity loss — to name but a few of our major and current sustainability challenges — often don't have their voices heard or their experiences shared. **This is a crucial missed opportunity to co-create a better future.**
+This means that **those who are most impacted by the changing climate, water scarcity and biodiversity loss** — to name but a few of our major and current sustainability challenges — **often don't have their voices heard or their experiences shared.** This is a crucial missed opportunity to co-create a better future.
 
 #### How to shift from empty words to inspire real change: Grounding the ‘blah, blah, blah’
 
-Buzzwords however do have a time and place. They can raise and spread awareness, even if it’s based on a superficial understanding. While this does have its merit in getting key messages on sustainability issues out there, **these buzzwords and the surrounding lofty language need to be grounded.** They need to mature into **inclusive and actionable wording**, which motivates us humans to move beyond ‘business as usual’, so that everyone from governments to under-represented voices can be equipped with the knowledge, tools and representation needed to make positive changes to protect the planet.
+Buzzwords however do have a time and place. They can raise and spread awareness, even if it’s based on a superficial understanding. While this does have its merit in getting key messages on sustainability issues out there, **these buzzwords and the surrounding lofty language need to be grounded.** They need to mature into **inclusive and actionable wording**, which motivates us humans to move beyond ‘business as usual’, so that everyone from governments to under-represented voices can be equipped with the knowledge, tools and representation needed **to make positive changes that protect the planet.**
  
 So how can we do this and get the right sustainability messaging out there? How can we use these buzzwords to not only help us join the global conversations, but to lead the conversation and influence change?
 
@@ -50,16 +50,16 @@ So how can we do this and get the right sustainability messaging out there? How 
 
 #### 5. Bring your information to life in creative & immersive ways
 
-If you can **bring your content alive with infographics, videos, animation, or even experiences,** then do so. This not only ties in numbers one, two and three above; it’s also much more engaging. Check out the moving [Climate Museum](https://climatemuseum.org/) for inspiration: raising awareness and motivating action on the climate crisis with exhibitions, installations, panels, performances, events and youth programmes. 
+**If you can bring your content alive with infographics, videos, animation, or even experiences,** then do so. This not only ties in numbers one, two and three above; it’s also much more engaging. Check out the moving [Climate Museum](https://climatemuseum.org/) for inspiration: raising awareness and motivating action on the climate crisis with exhibitions, installations, panels, performances, events and youth programmes. 
 
 #### 6. Have a clear call to action
 
 **An audience that’s overwhelmed with complex information and decisions won’t act. Choose one clear, accessible and achievable action to ask your audience to take.** Show people practical, simple daily actions they can take to make climate-conscious changes. Like buying organic. Travelling by train instead of plane. Making your pointers relatable and easy to action connects people emotionally and practically to sustainability challenges, inspiring real action. Dunnet Bay Distillers created an [easy return of empties through the post](https://www.dunnetbaydistillers.co.uk/shop/rock-rose-gin-refill-pouch/), boosting change-making behaviour around recycling and closing the loop on packaging.
 
 #### How HuckleBe can help
-Clarity and accessibility is at the core of how we work. **We guide our clients to unpack their buzzwords and use language that will land with their target audiences — delivered in memorable creative formats designed to drive change.** Putting to use simple but effective language with clear calls to action is what we’re all about.
+**Clarity and accessibility is at the core of how we work.** We guide our clients to unpack their buzzwords and use language that will land with their target audiences — delivered in memorable creative formats designed to drive change. Putting to use simple but effective language with clear calls to action is what we’re all about.
 
-Our talent for storytelling means **we pour brain and soul into crafting narratives that will resonate with your viewers and readers, sparking inspiration and action.** We ground these in target audience research that builds these human and emotional connections, alongside offering cross-cultural trainings that empower our clients’ teams to take these insights further.
+**Our talent for storytelling means we pour brain and soul into crafting narratives that will resonate with your viewers and readers, sparking inspiration and action.** We ground these in target audience research that builds these human and emotional connections, alongside offering cross-cultural trainings that empower our clients’ teams to take these insights further.
 
 To dive deeper, head to our [Services page](http://www.hucklebe.com/#services).
 
