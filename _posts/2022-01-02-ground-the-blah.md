@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "No more empty words. No more empty promises. It’s time to ground sustainability communications."
-date:   2022--01-02
+date:   2022--02-04
 author: HuckleBe
 images:
   - /assets/images/blog/blahbus.jpg
