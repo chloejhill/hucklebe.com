@@ -65,5 +65,5 @@ Curious to learn more?
 
  - Head to our [Services page](http://www.hucklebe.com/#services). 
  - Sign up for [HuckleBe inights, news and more](https://landing.mailerlite.com/webforms/landing/m3x0u8).
- - Book a [free consultation with Hayley and Chloe](https://calendly.com/hellohucklebe)now to take a pulse of your communications needs.
+ - Book a [free consultation with Hayley and Chloe](https://calendly.com/hellohucklebe) now to take a pulse of your communications needs.
 
