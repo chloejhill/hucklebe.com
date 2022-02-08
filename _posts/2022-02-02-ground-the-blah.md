@@ -61,5 +61,9 @@ So how can we do this and get the right sustainability messaging out there? How 
 
 **Our talent for storytelling means we pour brain and soul into crafting narratives that will resonate with your viewers and readers, sparking inspiration and action.** We ground these in target audience research that builds these human and emotional connections, alongside offering cross-cultural trainings that empower our clients’ teams to take these insights further.
 
-To dive deeper, head to our [Services page](http://www.hucklebe.com/#services).
+Curious to learn more?
+
+ - Head to our [Services page](http://www.hucklebe.com/#services). 
+ - Sign up for [HuckleBe inights, news and more](https://landing.mailerlite.com/webforms/landing/m3x0u8).
+ - Book a [free consultation with Hayley and Chloe](https://calendly.com/hellohucklebe)now to take a pulse of your communications needs.
 
