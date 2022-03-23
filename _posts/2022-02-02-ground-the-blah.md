@@ -64,6 +64,6 @@ So how can we do this and get the right sustainability messaging out there? How 
 Curious to learn more?
 
  - Head to our [Services page](http://www.hucklebe.com/#services). 
- - Sign up for [HuckleBe inights, news and more](https://landing.mailerlite.com/webforms/landing/m3x0u8).
+ - Sign up for [HuckleBe insights, news and more](https://landing.mailerlite.com/webforms/landing/m3x0u8).
  - Book a [free consultation with Hayley and Chloe](https://calendly.com/hellohucklebe) now to take a pulse of your communications needs.
 
