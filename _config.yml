@@ -23,7 +23,7 @@ description: > # this means to ignore newlines until "baseurl:"
 keywords: >
   Strategic, sustainability, transformation, communication, agency, human-centered design, creative, innovative, content, impact, brand, resilience, capability, training, future, trend, co-create, action, digital, engagement, inclusive, behaviour, change, purpose, reimagine
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hucklebe.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hucklebe.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter: "https://twitter.com/hellohucklebe"
 linkedin: "https://www.linkedin.com/company/hucklebe"
 seoimage: "/assets/images/HuckleBeShared.jpeg"
