@@ -98,6 +98,10 @@ clients:
   - /assets/images/clients/FMG.jpg
   - /assets/images/clients/IDH.jpg
   - /assets/images/clients/changeist.jpg
+
+partners:
+  - /assets/images/partners/humanly.png
+  - /assets/images/partners/moodley.png
 ---
 
 <div class='full no-padding parallax home-video-wrapper'>
@@ -376,6 +380,32 @@ clients:
           </div>
         </div>
       {% endfor %}
+    </div>
+  </div>
+  <div class="four spacing"></div>
+</div>
+
+<div class='full'>
+  <div class='row'>
+    <div class='large-8 columns large-centered'>
+      {% include section-title.html small_title="" title="Our brilliant partners" %}
+    </div>
+  </div>
+</div>
+<div class="full no-padding">
+  <div class="partners">
+    <div class='row'>
+      <div class="large-6 large-offset-3">
+        <div class="row">
+          {% for partner in page.partners %}
+          <div class='medium-6 small-6 columns'>
+            <div class="client">
+              <a href="javascript:void(0)"><img alt="" src="{{ partner | relative_url }}" /></a>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
     </div>
   </div>
   <div class="four spacing"></div>
