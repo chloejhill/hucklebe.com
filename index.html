@@ -282,6 +282,28 @@ partners:
   </div>
 </div>
 
+<div class='full'>
+  <div class='row'>
+    <div class='large-8 columns large-centered'>
+      {% include section-title.html small_title="Our impact delivered" title="Some of our amazing clients" %}
+    </div>
+  </div>
+</div>
+<div class="full no-padding">
+  <div class="clients">
+    <div class='row'>
+      {% for client in page.clients %}
+        <div class='large-3 medium-6 small-6 columns'>
+          <div class="client">
+            <a href="javascript:void(0)"><img alt="" src="{{ client | relative_url }}" /></a>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="four spacing"></div>
+</div>
+
 <div class='full no-overflow no-padding parallax'>
   <div class="mid-half" style="padding-bottom: 0px;">
     <div class="row">
@@ -316,27 +338,5 @@ partners:
       </div>
     </div>
   </div>
-</div>
-
-<div class='full'>
-  <div class='row'>
-    <div class='large-8 columns large-centered'>
-      {% include section-title.html small_title="Our impact delivered" title="Some of our amazing clients" %}
-    </div>
-  </div>
-</div>
-<div class="full no-padding">
-  <div class="clients">
-    <div class='row'>
-      {% for client in page.clients %}
-        <div class='large-3 medium-6 small-6 columns'>
-          <div class="client">
-            <a href="javascript:void(0)"><img alt="" src="{{ client | relative_url }}" /></a>
-          </div>
-        </div>
-      {% endfor %}
-    </div>
-  </div>
-  <div class="four spacing"></div>
 </div>
 
