@@ -126,8 +126,11 @@ partners:
     <div class='large-8 columns large-centered'>
       <div class="section-title">
         <p class="small-title">Elevating your Impact</p>
-        <p class="big-size">We work with impact-driven organisations to amplify your sustainability voice, boost your brand resilience and shore you up as an influential leader.
-		From bold, intuitive and forward-thinking strategies to content that captures to mind-shifting trainings - we reimagine new ways for you to elevate your impact.</p>
+        <p class="big-size">HuckleBe was a strategic communications consultancy on a mission to propel sustainable futures.
+	Amsterdam-based, women-run, purpose-driven, we  worked globally with impact-driven organisations to amplify sustainability voices, boost brand resilience and shore up influential leadership.
+	From bold, intuitive and forward-thinking strategies to thoughtful and engaging content to mind-shifting trainings - we reimagined new ways to elevate sustainability impact.</p>
+	{% assign nav_obj = site.data.nav | where:'section_id','works' | first %}
+       <a href='{{ "index.html" | append:nav_obj.path | relative_url }}'>View our work.</a>
         <img src="{{ "/assets/images/logo-centered.png" | relative_url  }}" alt="Hucklebe logo" style="width:150px;height:auto;">
       </div>
     </div>
