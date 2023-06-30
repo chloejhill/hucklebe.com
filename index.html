@@ -126,7 +126,7 @@ partners:
       <div class="section-title">
         <p class="small-title">Elevating Impact</p>
         <p class="big-size">HuckleBe was a strategic communications consultancy on a mission to propel sustainable futures.
-	Amsterdam-based, women-run, purpose-driven, between 2020-2023 we  worked globally with impact-driven organisations to amplify sustainability voices, boost brand resilience and shore up influential leadership.
+	Amsterdam-based, women-run, purpose-driven, between 2020-2023, we  worked globally with impact-driven organisations to amplify sustainability voices, boost brand resilience and shore up influential leadership.
 	From bold, intuitive and forward-thinking strategies to thoughtful and engaging content to mind-shifting trainings - we reimagined new ways to elevate sustainability impact.</p>
 	{% assign nav_obj = site.data.nav | where:'section_id','works' | first %} <a href='{{ "index.html" | append:nav_obj.path | relative_url }}'>View our work.</a>
         <img src="{{ "/assets/images/logo-centered.png" | relative_url  }}" alt="Hucklebe logo" style="width:150px;height:auto;">
@@ -143,13 +143,14 @@ partners:
   </div>
  </div>
 
+
 <a id='services'></a>
 <div class='full' style="padding-bottom: 20px;">
   <div class='row'>
     <div class='large-8 columns large-centered'>
       <div class="section-title">
         <p class="small-title">Our impact services</p>
-        <h2>How we catalysed change</h2>
+        <h2>We've got you covered</h2>
     </div>
   </div>
  </div>
@@ -169,7 +170,7 @@ partners:
 <div class='full' style="padding-top: 20px;">
   <div class='row'>
     <div class='large-8 columns large-centered'>
-      {% include section-title.html small_title="take a look" title="Projects we're proud of" %}
+      {% include section-title.html small_title="take a look" title="Our recent projects" %}
     </div>
   </div>
 </div>
@@ -212,7 +213,7 @@ partners:
 <div class='full'>
   <div class='row'>
     <div class='large-8 columns large-centered'>
-      {% include section-title.html small_title="The team" title="Behind the HuckleBe magic" %}
+      {% include section-title.html small_title="The team" title="Meet the co-founders" %}
     </div>
   </div>
 </div>
@@ -250,12 +251,31 @@ partners:
       </div>
     {% endfor %}
   </div>
+  <div class="two spacing"></div>
+</div>
+<div class="full no-padding main-bg">
+    <div class="row">
+      <div class="section-header">
+        <div class="four spacing"></div>
+        <h2 style="display: block; text-align: left;">Our creative ecosystem</h2>
+      </div>
+    </div>
+    <div class="row">
+  <div>
+    <p>We collaborate regularly with graphic designers, digital creators, videographers, storytellers, illustrators and artists as well as sustainabilty strategists and technical content specialists, who are all experienced in producing innovative and sustainability-focused deliverables. Under our strategic and creative guidance, we work closely with our creatives to deliver you the impact and results that you strive for.</p>
+          <br>
+        <a href="https://hucklebe.com/2021/10/10/the-hucklebe-journey-how-an-unlikely-pair-launched-an-impact-driven-company-with-a-twist.html" class="button small" style="background: #fff; color: #edb713; border: none;" target="_blank;">Check out our Origin Story</a>
+        <div class="four spacing"></div>
+      </div>
+    </div>
+  </div>
+</div>
 
 <a id='blog'></a>
 <div class='full grey'>
   <div class='row'>
     <div class='large-8 columns large-centered'>
-      {% include section-title.html small_title="Our cutting edge blog posts" title="Stuff we wrote about" %}
+      {% include section-title.html small_title="latest posts" title="Stuff we think about" %}
     </div>
   </div>
 </div>
@@ -280,33 +300,25 @@ partners:
   </div>
 </div>
 
-<div class='full'>
-  <div class='row'>
-    <div class='large-8 columns large-centered'>
-      {% include section-title.html small_title="Our impact delivered" title="Some of our amazing clients" %}
+<div class='full no-overflow no-padding parallax' style="background: #edb713;">
+  <div class="mid-half" style="padding-bottom: 0px;">
+    <div class="row">
+      <div class="section-header">
+        <h2>Take your first step towards reimagining your sustainability</h2>
+        <p>Get your hands on our HuckleBe Insights & Updates. They're juicy!</p>
+        <br>
+        <a href="https://landing.mailerlite.com/webforms/landing/m3x0u8" class="button small" style="background: #93222B; color: #fff; border: none;" target="_blank;">Sign up here</a>
+        <div class="two spacing"></div>
+      </div>
     </div>
   </div>
-</div>
-<div class="full no-padding">
-  <div class="clients">
-    <div class='row'>
-      {% for client in page.clients %}
-        <div class='large-3 medium-6 small-6 columns'>
-          <div class="client">
-            <a href="javascript:void(0)"><img alt="" src="{{ client | relative_url }}" /></a>
-          </div>
-        </div>
-      {% endfor %}
-    </div>
-  </div>
-  <div class="four spacing"></div>
 </div>
 
 <div class='full no-overflow no-padding parallax'>
   <div class="mid-half" style="padding-bottom: 0px;">
     <div class="row">
       <div class="section-header">
-        <h2>... and the nice things they said about us</h2>
+        <h2>... and what they say about us</h2>
         <br>
         <i class="fa fa-quote-left fa-4x"></i>
       </div>
@@ -332,4 +344,31 @@ partners:
               {% endfor %}
             </div>
           </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class='full'>
+  <div class='row'>
+    <div class='large-8 columns large-centered'>
+      {% include section-title.html small_title="Our impact delivered" title="Some of our amazing clients" %}
+    </div>
+  </div>
+</div>
+<div class="full no-padding">
+  <div class="clients">
+    <div class='row'>
+      {% for client in page.clients %}
+        <div class='large-3 medium-6 small-6 columns'>
+          <div class="client">
+            <a href="javascript:void(0)"><img alt="" src="{{ client | relative_url }}" /></a>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="four spacing"></div>
+</div>
 
